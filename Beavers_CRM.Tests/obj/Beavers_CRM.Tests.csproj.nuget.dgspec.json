@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\julia\\OneDrive\\Desktop\\beaver\\Beavers_CRM.Tests\\Beavers_CRM.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\julia\\OneDrive\\Desktop\\beaver\\BeaversCRM_1\\BeaversCRM_1.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Desktop\\beaver\\BeaversCRM_1\\BeaversCRM_1.csproj",
+        "projectName": "BeaversCRM_1",
+        "projectPath": "C:\\Users\\julia\\OneDrive\\Desktop\\beaver\\BeaversCRM_1\\BeaversCRM_1.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\julia\\OneDrive\\Desktop\\beaver\\Beavers_CRM.Tests\\Beavers_CRM.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Desktop\\beaver\\Beavers_CRM.Tests\\Beavers_CRM.Tests.csproj",
+        "projectName": "Beavers_CRM.Tests",
+        "projectPath": "C:\\Users\\julia\\OneDrive\\Desktop\\beaver\\Beavers_CRM.Tests\\Beavers_CRM.Tests.csproj",
+        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julia\\OneDrive\\Desktop\\beaver\\Beavers_CRM.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\julia\\OneDrive\\Desktop\\beaver\\BeaversCRM_1\\BeaversCRM_1.csproj": {
+                "projectPath": "C:\\Users\\julia\\OneDrive\\Desktop\\beaver\\BeaversCRM_1\\BeaversCRM_1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
