@@ -1,5 +1,17 @@
 README
 
+University second year group project: Build Together Culture a CRM system.
+
+Components indidual to myself:
+Login page
+Register page
+Account settings 
+Event management
+Create event
+Constants
+MySQLdb
+DbValidation
+
 Requirements: 
 .Net Framework 4.7.2
 NuGet MySql.Data 9.1.0 package downloaded through Visual Studio
