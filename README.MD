@@ -30,8 +30,8 @@ The application uses a MySQL/MariaDB database.
 
 ### Default Connection String
 ```text
-Server=localhost;Database=tc_crm;User=root;```
-
+Server=localhost;Database=tc_crm;User=root;
+```
 Please modify in classes: MySQLdb and Database if different
 
 ---
@@ -43,6 +43,7 @@ For testing purposes the dummy account sign-ins are:
 email= 1 & password= 1 for userID = 1 
 email= 2 & password= 2 for userID = 2 
 email= 3 & password= 3 for userID = 3 
+
 
 
 
