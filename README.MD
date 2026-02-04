@@ -40,9 +40,10 @@ Please modify in classes: MySQLdb and Database if different
 
 Password hashing has been applied to the database:
 For testing purposes the dummy account sign-ins are:
-email= 1 & password= 1 for userID = 1 
-email= 2 & password= 2 for userID = 2 
-email= 3 & password= 3 for userID = 3 
+- email= 1 & password= 1 for userID = 1 
+- email= 2 & password= 2 for userID = 2 
+- email= 3 & password= 3 for userID = 3 
+
 
 
 
